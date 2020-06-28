@@ -1,0 +1,3 @@
+pyinstaller -w -i [icon_file] --onefile [python_file]
+example:
+pyinstaller -w -i "C:\Users\HP\Desktop\weather app\weather.ico" --onefile weather_app.py
