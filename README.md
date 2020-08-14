@@ -1,5 +1,13 @@
-# weather-gui
-This is weather gui ,it will obviously tell the weather details ,this gui i have made because only for laziness ,if i want to know weather everytime i have to search on internet
-for that this is best for me just type the location on this gui and get details.
-the details include temperature,pressure,wind speed,humidity etc. and also tell 3 days details
-here i have used weather api and the language is python. library used here is tkinter,request
+# Weather GUI
+A Weather Forecast GUI application which gives the good and well mannered content using weather API
+You can search by city or state or country name.
+It will give 3 days weather details
+Details Include Temperature in celcius(°C),Pressure(hpa),Humidity(%),Wind speed(km/h) ,Current time of that place etc..
+# Main Window
+Initially nothing will displayed ,after search it give details
+![freesnippingtool com_capture_20200814160914](https://user-images.githubusercontent.com/58354473/90241374-8777ac00-de48-11ea-9295-71b94ad02058.png)
+
+For example:-
+
+![freesnippingtool com_capture_20200814161116](https://user-images.githubusercontent.com/58354473/90241507-ce65a180-de48-11ea-87a3-167134d7aada.png)
+# Future Work
