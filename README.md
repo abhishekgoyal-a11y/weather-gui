@@ -1,8 +1,7 @@
 # Weather GUI
-A Weather Forecast GUI application which gives the good and well mannered content using weather API
+A Weather Forecast GUI application which gives the good and well mannered content using weather API.
 You can search by city or state or country name.
-It will give 3 days weather details
-Details Include Temperature in celcius(°C), Pressure(hpa), Humidity(%), Wind speed(km/h), Current time of that place etc..
+It will give 3 days weather details, it include Temperature in celcius(°C), Pressure(hpa), Humidity(%), Wind speed(km/h), Current time of that place etc..
 
 # Main Window
 Initially nothing will displayed ,after search it give details
