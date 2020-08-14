@@ -11,4 +11,12 @@ Initially nothing will displayed ,after search it give details
 For example:-
 
 ![freesnippingtool com_capture_20200814161116](https://user-images.githubusercontent.com/58354473/90241507-ce65a180-de48-11ea-87a3-167134d7aada.png)
+
+Language:-Python
+
+Framework:-Tkinter
+
+Library:-Request, JSON, Datetime, Calendar, PIL ,pprint
+
 # Future Work
+1. get current location
